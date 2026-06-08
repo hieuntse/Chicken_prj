@@ -1,0 +1,2 @@
+Cần push thêm hình ảnh thì kéo ảnh vào folder này
+-> Sau đó push lên và lấy link tương tự 
